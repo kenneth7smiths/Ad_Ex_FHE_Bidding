@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\admin-build-simple\configuration-adaptive.txt
+// Generated at: 2025-10-24T13:51:53.305Z
